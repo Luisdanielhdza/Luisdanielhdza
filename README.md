@@ -1,4 +1,6 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/CM0pFUR" data-context="false" ><a href="//imgur.com/a/CM0pFUR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/d8Tw1FC.png" />
+
+
 
 ## Hola, Soy Daniel Hernandez. 👋
 
