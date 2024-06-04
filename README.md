@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hola, Soy Daniel Hernandez. 👋
 
-
-**Luisdanielhdza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apacionado joven con ganas de aprender de todos los misterios que hay entorno a la rama de tecnologias. 
 
 Here are some ideas to get you started:
 
