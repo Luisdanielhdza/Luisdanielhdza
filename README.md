@@ -15,11 +15,11 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages        = ['JavaScript', 'PHP', 'Dart', 'C#', 'C++'];
+  languages        = ['JavaScript', 'PHP', 'Dart', 'Kotlin', 'C++'];
   databases        = ['MySQL', 'SQL'];
   frontend         = ["HTML", "CSS", "JS", "Bootstrap"],
-  frameworkAndroid = ['Flutter', 'Kotlin', 'JQuery'];
-  frameworkiOS     = ['Flutter', 'SwiftUI', 'Kotlin'];
+  frameworkAndroid = ['Flutter', 'JQuery'];
+  frameworkiOS     = ['Flutter', 'SwiftUI'];
   systems          = ['Windows', 'iOS', 'WServer','Linux'];
 }
 ```
