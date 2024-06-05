@@ -20,6 +20,7 @@ class Skills extends SoftwareDeveloper {
   frontend         = ["HTML", "CSS", "JS", "Bootstrap"],
   frameworkAndroid = ['Flutter', 'Apache', 'JQuery'];
   frameworkiOS     = ['Flutter', 'SwiftUI', 'Kotlin'];
+  systems          = ['Windows', 'iOS', 'WServer','Linux'];
 }
 ```
 - ⚡ Ingeniero en tecnologías de la informacion desde el 2019, con amplia participación en desarrollo de software desde su maquetación hasta sus pruebas y publicaciones reales.
