@@ -1,7 +1,5 @@
 <img src="https://i.imgur.com/d8Tw1FC.png" />
 
-
-
 ## Hola, Soy Daniel Hernandez. 👋
 
 Soy un apacionado joven con ganas de aprender de todos los misterios que hay entorno a la rama de tecnologías. 
