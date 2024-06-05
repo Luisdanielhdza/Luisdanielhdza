@@ -18,7 +18,7 @@ class Skills extends SoftwareDeveloper {
   languages        = ['JavaScript', 'PHP', 'Dart', 'C#', 'C++'];
   databases        = ['MySQL', 'SQL'];
   frontend         = ["HTML", "CSS", "JS", "Bootstrap"],
-  frameworkAndroid = ['Flutter', 'Apache', 'JQuery'];
+  frameworkAndroid = ['Flutter', 'Kotlin', 'JQuery'];
   frameworkiOS     = ['Flutter', 'SwiftUI', 'Kotlin'];
   systems          = ['Windows', 'iOS', 'WServer','Linux'];
 }
