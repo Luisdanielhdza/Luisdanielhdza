@@ -10,7 +10,7 @@ import SoftwareDeveloper from 'DanielHdza';
 class Bio extends SoftwareDeveloper {
   name     = 'Luis Daniel Hernandez';
   title    = 'Software Engineer';
-  company  = 'SIDEAPA | DEVELOPER';
+  company  = 'DEVELOPER';
   location = 'Gomez Palacio, Dgo. Mex.';
 }
 
