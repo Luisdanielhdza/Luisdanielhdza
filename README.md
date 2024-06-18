@@ -15,12 +15,13 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages        = ['JavaScript', 'PHP', 'Dart', 'Kotlin', 'C++'];
-  databases        = ['MySQL', 'SQL'];
-  frontend         = ["HTML", "CSS", "JS", "Bootstrap"],
-  frameworkAndroid = ['Flutter', 'JQuery'];
-  frameworkiOS     = ['Flutter', 'SwiftUI'];
-  systems          = ['Windows', 'iOS', 'WServer','Linux'];
+  languages          = ['JavaScript', 'PHP', 'C++' ];
+  databases          = ['MySQL', 'SQL'];
+  frontend           = ['HTML', 'CSS', 'JS', 'Bootstrap' ];
+  framework          = ['NodeJs', 'Boostrap' ];
+  developmentAndroid = ['Android Studio', 'JQuery', 'kotlin' ];
+  developmentpiOS    = ['Xcode', 'SwiftUI', 'dart'  ];
+  systems            = ['Windows', 'iOS', 'WServer','Linux' ];
 }
 ```
 - ⚡ Ingeniero en tecnologías de la informacion desde el 2019, con amplia participación en desarrollo de software desde su maquetación hasta sus pruebas y publicaciones reales.
